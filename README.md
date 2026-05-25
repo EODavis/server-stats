@@ -29,6 +29,9 @@ sudo ./server-stats.sh
 - Any Linux server (Ubuntu, Debian, RHEL, CentOS)
 - Bash 4+, standard GNU coreutils (`top`, `free`, `df`, `ps`)
 
+# Project URL:
+https://roadmap.sh/projects/server-stats
+
 ## 📁 Reproduction Steps
 ```bash
 git clone https://github.com/EODavis/server-stats.git
